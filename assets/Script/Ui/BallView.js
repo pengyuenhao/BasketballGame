@@ -74,6 +74,10 @@ cc.Class({
             if(this.direction===1){
                 this.RigidBody.linearVelocity = cc.v2(this.RigidBody.linearVelocity.x + 100,rate * this.RigidBody.linearVelocity.y + 325 + offset);
             }
+
+            cc.loader.loadRes(cc.url.raw("resources/Audio/00B9_0008.wav"), function (err, clip) {
+                cc.audioEngine.playEffect(clip,false);
+            });
         });
     },
 
@@ -101,6 +105,10 @@ cc.Class({
         }
         if(this.direction === 1 && this.RigidBody.linearVelocity.x < 50 ){
             this.RigidBody.linearVelocity = cc.v2( this.RigidBody.linearVelocity.x + 0.1 , this.RigidBody.linearVelocity.y);
+        }
+        if(this.node.y < -100 -cc.view.getVisibleSize().height/2){
+            this.node.x = 0;
+            this.node.y = cc.view.getVisibleSize().height/2;
         }
     },
 });

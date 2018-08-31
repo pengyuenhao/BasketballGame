@@ -41,7 +41,7 @@ cc.Class({
     // LIFE-CYCLE CALLBACKS:
 
     onLoad () {
-        cc.view.enableAutoFullScreen(true);
+        //cc.view.enableAutoFullScreen(true);
         //设定根节点
         signals.setRoot(this);
         //绑定启动信号

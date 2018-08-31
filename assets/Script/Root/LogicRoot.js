@@ -56,14 +56,8 @@ cc.Class({
                     break;
                 case 4:
                     that.contactBottom = false;
-                    if(that.contactCenter === false){
-                        that.contactTop = true;
-                    }
-                    else{
-                        that.contactTop = false;
-                        that.contactCenter = false;
-                        //console.info("[Contact Not Vaild]");
-                    }
+                    that.contactCenter = false
+                    that.contactTop = true;
                     break;
                 case 5:
                     if(that.contactBottom === true){
@@ -76,12 +70,17 @@ cc.Class({
                     }
                     break;
                 case 6:
-                    that.contactBottom = true;
+                    if(that.contactTop === false || that.contactCenter === false){
+                        that.contactBottom = false;
+                    }
+                    else{
+                        that.contactBottom = true;
+                    }
                     break;
                 default:
                     break;
             }
-            if(that.contactTop === true && that.contactBottom === true){
+            if(that.contactTop === true && that.contactBottom === true && that.contactCenter === true){
                 console.info("[Logic Contact]"+ "Get Score");
                 that.contactTop = false;
                 that.contactBottom = false;

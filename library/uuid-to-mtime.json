@@ -260,8 +260,8 @@
     "relativePath": "Script\\HelloWorld.js"
   },
   "2d2f792f-a40c-49bb-a189-ed176a246e49": {
-    "asset": 1535703162212,
-    "meta": 1535703162231,
+    "asset": 1535708039245,
+    "meta": 1535708039266,
     "relativePath": "Scene\\helloworld.fire"
   },
   "7b81d4e8-ec84-4716-968d-500ac1d78a54": {
@@ -454,24 +454,39 @@
     "meta": 1535701450974,
     "relativePath": "Script\\Ui\\BoardView.js"
   },
-  "faa4d4a8-9de5-46e2-802b-d21667bb3d15": {
-    "asset": 1535701493859,
-    "meta": 1535701496428,
-    "relativePath": "Script\\Ui\\BallView.js"
-  },
-  "0c6dc11a-4de0-4d66-994d-1f8fa1627547": {
-    "asset": 1535702543601,
-    "meta": 1535702594451,
-    "relativePath": "Script\\Root\\LogicRoot.js"
-  },
   "e7795eb6-6449-4561-a697-dfa8750bba22": {
     "asset": 1535703004728,
     "meta": 1535703008399,
     "relativePath": "Script\\Ui\\ScoreView.js"
   },
   "6673866b-e976-48b1-9b97-be0193eb776d": {
-    "asset": 1535703344274,
-    "meta": 1535703345065,
+    "asset": 1535703706765,
+    "meta": 1535703710646,
     "relativePath": "Script\\Root\\MainRoot.js"
+  },
+  "0c6dc11a-4de0-4d66-994d-1f8fa1627547": {
+    "asset": 1535704480280,
+    "meta": 1535704481162,
+    "relativePath": "Script\\Root\\LogicRoot.js"
+  },
+  "fdd377a0-7979-4049-9c23-a1326a83fce9": {
+    "asset": 1535706001885,
+    "meta": 1535704823427,
+    "relativePath": "resources\\Audio"
+  },
+  "35db3199-6111-42ae-b6ac-1f9386484759": {
+    "asset": 1534511440118,
+    "meta": 1535704823462,
+    "relativePath": "resources\\Audio\\00B9_0008.wav"
+  },
+  "c84a1e25-b970-4b30-a6b1-c44904d2c909": {
+    "asset": 1535707567136,
+    "meta": 1535707567141,
+    "relativePath": "resources"
+  },
+  "faa4d4a8-9de5-46e2-802b-d21667bb3d15": {
+    "asset": 1535708070896,
+    "meta": 1535708073268,
+    "relativePath": "Script\\Ui\\BallView.js"
   }
 }
