@@ -250,7 +250,7 @@
     "relativePath": "Scene"
   },
   "4734c20c-0db8-4eb2-92ea-e692f4d70934": {
-    "asset": 1535630645691,
+    "asset": 1535658382842,
     "meta": 1535630645687,
     "relativePath": "Script"
   },
@@ -260,12 +260,12 @@
     "relativePath": "Script\\HelloWorld.js"
   },
   "2d2f792f-a40c-49bb-a189-ed176a246e49": {
-    "asset": 1535630645693,
-    "meta": 1535630654723,
+    "asset": 1535703162212,
+    "meta": 1535703162231,
     "relativePath": "Scene\\helloworld.fire"
   },
   "7b81d4e8-ec84-4716-968d-500ac1d78a54": {
-    "asset": 1535630645691,
+    "asset": 1535655827343,
     "meta": 1535630645687,
     "relativePath": "Texture"
   },
@@ -278,5 +278,200 @@
     "asset": 1535630645693,
     "meta": 1535630654778,
     "relativePath": "Texture\\HelloWorld.png"
+  },
+  "926404c0-52a2-465c-9d2e-a9e4850e51af": {
+    "asset": 1535654860813,
+    "meta": 1535682234433,
+    "relativePath": "Texture\\surface.png"
+  },
+  "3b7508ae-1237-4cfe-974b-75d233eaf70a": {
+    "asset": 1535655827355,
+    "meta": 1535655827344,
+    "relativePath": "Texture\\UI"
+  },
+  "7e7c5e59-70f8-4225-9b55-9309db94d33f": {
+    "asset": 1535655827353,
+    "meta": 1535655827345,
+    "relativePath": "Texture\\UI\\Font"
+  },
+  "4cfbf542-54f2-4311-99f4-0cfda75044fc": {
+    "asset": 1474431597812,
+    "meta": 1535655827417,
+    "relativePath": "Texture\\UI\\Font\\font_0001.png"
+  },
+  "956a7d3e-5a90-4149-ac74-35ce5cfbf284": {
+    "asset": 1474431597928,
+    "meta": 1535655827421,
+    "relativePath": "Texture\\UI\\Font\\font_0002.png"
+  },
+  "7f42d460-1136-4da3-8f3f-e2a5860ae2d9": {
+    "asset": 1535655827363,
+    "meta": 1535655827355,
+    "relativePath": "Texture\\UI\\Option"
+  },
+  "6dd87d64-f6ee-4d88-a963-2675cfd0d169": {
+    "asset": 1535655827362,
+    "meta": 1535655827356,
+    "relativePath": "Texture\\UI\\Option\\Audio"
+  },
+  "672df3c2-35a1-4af8-be93-f91d121145b6": {
+    "asset": 1474970308279,
+    "meta": 1535656210711,
+    "relativePath": "Texture\\UI\\Option\\Audio\\Audio_0001.png"
+  },
+  "daed05e1-2045-47ce-a2cd-9714da49bba2": {
+    "asset": 1474970308693,
+    "meta": 1535656215287,
+    "relativePath": "Texture\\UI\\Option\\Audio\\Audio_0002.png"
+  },
+  "9520921b-4528-446b-bb58-c8090aada7a0": {
+    "asset": 1474970309117,
+    "meta": 1535656248181,
+    "relativePath": "Texture\\UI\\Option\\Audio\\Audio_0003.png"
+  },
+  "4dfddcd2-3d21-40ab-b2b9-b16c1893ffc5": {
+    "asset": 1474970309543,
+    "meta": 1535656266364,
+    "relativePath": "Texture\\UI\\Option\\Audio\\Audio_0004.png"
+  },
+  "78bef325-0fe6-43a7-a410-cb0d8322f8d6": {
+    "asset": 1474970310008,
+    "meta": 1535656275262,
+    "relativePath": "Texture\\UI\\Option\\Audio\\Audio_0005.png"
+  },
+  "0f606f74-ffa1-40fc-a123-bb9630b038d5": {
+    "asset": 1535657919356,
+    "meta": 1535655827364,
+    "relativePath": "Texture\\UI\\Option\\Start"
+  },
+  "8a1c60b3-4dfa-476a-b315-3fdfcd94609c": {
+    "asset": 1474970307899,
+    "meta": 1535656219415,
+    "relativePath": "Texture\\UI\\Option\\Audio\\Audio_0006.png"
+  },
+  "d25f78e1-a6dd-4b1d-a059-3e003d32e80c": {
+    "asset": 1535655704577,
+    "meta": 1535657683717,
+    "relativePath": "Texture\\UI\\Option\\Start\\Start_0001.png"
+  },
+  "6a6defef-e72a-4bdf-853d-3e2cc1b0fe47": {
+    "asset": 1535657586892,
+    "meta": 1535657668060,
+    "relativePath": "Texture\\UI\\Option\\Start\\Start_0003.png"
+  },
+  "049776d7-b305-491e-8a8f-fcab84e1b702": {
+    "asset": 1535658238012,
+    "meta": 1535658376821,
+    "relativePath": "Script\\Root\\UiRoot.js"
+  },
+  "e2cb48f6-02f5-4898-89c4-d3e03c60d321": {
+    "asset": 1535658331966,
+    "meta": 1535658343474,
+    "relativePath": "Script\\Root\\ViewRoot.js"
+  },
+  "f483a707-168c-454a-a6fc-4edc433735db": {
+    "asset": 1535658382842,
+    "meta": 1535658365329,
+    "relativePath": "Script\\Root"
+  },
+  "a7141484-2277-4a0f-af71-e72e8b9770c5": {
+    "asset": 1535659340639,
+    "meta": 1535659340645,
+    "relativePath": "Script\\Ui"
+  },
+  "7324459e-aba2-4783-9b32-7dc7029a7b5d": {
+    "asset": 1535663985285,
+    "meta": 1535663987912,
+    "relativePath": "Texture\\UI\\Option\\Start\\Start_0002.png"
+  },
+  "85e7dd68-a5eb-4467-9742-a3d8393fa619": {
+    "asset": 1535668027182,
+    "meta": 1535668027184,
+    "relativePath": "Script\\Signal"
+  },
+  "6777d982-2e17-42d8-bde7-84897f8b06bd": {
+    "asset": 1535672424143,
+    "meta": 1535672424146,
+    "relativePath": "Script\\Command"
+  },
+  "6b64f40d-29b0-432f-81d0-e3adcf36ff59": {
+    "asset": 1535676143462,
+    "meta": 1535676143464,
+    "relativePath": "Script\\Lib"
+  },
+  "d109788c-39f0-4085-81db-c4c1300445de": {
+    "asset": 1535681031689,
+    "meta": 1535681044792,
+    "relativePath": "Script\\Command\\Command.js"
+  },
+  "1dc3df7f-5dc5-4090-aec5-10764d347db2": {
+    "asset": 1535681997303,
+    "meta": 1535682067183,
+    "relativePath": "Script\\Ui\\StartBtnView.js"
+  },
+  "de82dce6-31b4-43d4-a49d-0c81266f0902": {
+    "asset": 1535687073619,
+    "meta": 1535687523065,
+    "relativePath": "Texture\\board.png"
+  },
+  "4c54b6a9-505d-48f6-9525-49ce308abd6c": {
+    "asset": 1535687273540,
+    "meta": 1535687528699,
+    "relativePath": "Texture\\timg.png"
+  },
+  "75d46fce-a9b2-4c3a-ab70-75d2e3efc957": {
+    "asset": 1535687712969,
+    "meta": 1535687738510,
+    "relativePath": "Script\\Ui\\SurfaceView.js"
+  },
+  "511a0b31-4fc9-4a9f-b6fe-03030ef49f27": {
+    "asset": 1535688118823,
+    "meta": 1535688121434,
+    "relativePath": "Texture\\ball.png"
+  },
+  "2bdf4dcd-c326-4a3e-bc6b-b4cbb78ff8c8": {
+    "asset": 1535697515878,
+    "meta": 1535697531759,
+    "relativePath": "Script\\Signal\\SignalMgr.js"
+  },
+  "c8c1700b-5d26-4058-82d9-84ccc64d1d83": {
+    "asset": 1535697569474,
+    "meta": 1535697575383,
+    "relativePath": "Script\\Signal\\Signal.js"
+  },
+  "b9e3077e-bf0a-4ea7-a823-648eb754fe93": {
+    "asset": 1535697622664,
+    "meta": 1535697672593,
+    "relativePath": "Script\\Lib\\Singleton.js"
+  },
+  "2ec8ee50-de6c-4be2-aea8-9854a0f7de59": {
+    "asset": 1535699584686,
+    "meta": 1535699587918,
+    "relativePath": "Script\\Command\\StartCmd.js"
+  },
+  "382f3392-081b-4f03-9f4d-90722b9d1a54": {
+    "asset": 1535701445373,
+    "meta": 1535701450974,
+    "relativePath": "Script\\Ui\\BoardView.js"
+  },
+  "faa4d4a8-9de5-46e2-802b-d21667bb3d15": {
+    "asset": 1535701493859,
+    "meta": 1535701496428,
+    "relativePath": "Script\\Ui\\BallView.js"
+  },
+  "0c6dc11a-4de0-4d66-994d-1f8fa1627547": {
+    "asset": 1535702543601,
+    "meta": 1535702594451,
+    "relativePath": "Script\\Root\\LogicRoot.js"
+  },
+  "e7795eb6-6449-4561-a697-dfa8750bba22": {
+    "asset": 1535703004728,
+    "meta": 1535703008399,
+    "relativePath": "Script\\Ui\\ScoreView.js"
+  },
+  "6673866b-e976-48b1-9b97-be0193eb776d": {
+    "asset": 1535703344274,
+    "meta": 1535703345065,
+    "relativePath": "Script\\Root\\MainRoot.js"
   }
 }

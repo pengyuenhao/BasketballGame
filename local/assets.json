@@ -5,16 +5,40 @@
       "id": "mount-assets"
     },
     {
-      "folded": true,
+      "folded": false,
       "id": "29f52784-2fca-467b-92e7-8fd9ef8c57b7"
     },
     {
-      "folded": true,
+      "folded": false,
       "id": "4734c20c-0db8-4eb2-92ea-e692f4d70934"
     },
     {
-      "folded": true,
+      "folded": false,
       "id": "7b81d4e8-ec84-4716-968d-500ac1d78a54"
+    },
+    {
+      "folded": true,
+      "id": "3b7508ae-1237-4cfe-974b-75d233eaf70a"
+    },
+    {
+      "folded": false,
+      "id": "f483a707-168c-454a-a6fc-4edc433735db"
+    },
+    {
+      "folded": true,
+      "id": "7e7c5e59-70f8-4225-9b55-9309db94d33f"
+    },
+    {
+      "folded": true,
+      "id": "511a0b31-4fc9-4a9f-b6fe-03030ef49f27"
+    },
+    {
+      "folded": false,
+      "id": "7f42d460-1136-4da3-8f3f-e2a5860ae2d9"
+    },
+    {
+      "folded": true,
+      "id": "926404c0-52a2-465c-9d2e-a9e4850e51af"
     },
     {
       "folded": true,
@@ -23,6 +47,58 @@
     {
       "folded": true,
       "id": "a8027877-d8d6-4645-97a0-52d4a0123dba"
+    },
+    {
+      "folded": false,
+      "id": "0f606f74-ffa1-40fc-a123-bb9630b038d5"
+    },
+    {
+      "folded": true,
+      "id": "6dd87d64-f6ee-4d88-a963-2675cfd0d169"
+    },
+    {
+      "folded": true,
+      "id": "4cfbf542-54f2-4311-99f4-0cfda75044fc"
+    },
+    {
+      "folded": true,
+      "id": "956a7d3e-5a90-4149-ac74-35ce5cfbf284"
+    },
+    {
+      "folded": true,
+      "id": "6a6defef-e72a-4bdf-853d-3e2cc1b0fe47"
+    },
+    {
+      "folded": true,
+      "id": "d25f78e1-a6dd-4b1d-a059-3e003d32e80c"
+    },
+    {
+      "folded": true,
+      "id": "8a1c60b3-4dfa-476a-b315-3fdfcd94609c"
+    },
+    {
+      "folded": true,
+      "id": "7324459e-aba2-4783-9b32-7dc7029a7b5d"
+    },
+    {
+      "folded": true,
+      "id": "daed05e1-2045-47ce-a2cd-9714da49bba2"
+    },
+    {
+      "folded": true,
+      "id": "9520921b-4528-446b-bb58-c8090aada7a0"
+    },
+    {
+      "folded": true,
+      "id": "4dfddcd2-3d21-40ab-b2b9-b16c1893ffc5"
+    },
+    {
+      "folded": false,
+      "id": "78bef325-0fe6-43a7-a410-cb0d8322f8d6"
+    },
+    {
+      "folded": true,
+      "id": "672df3c2-35a1-4af8-be93-f91d121145b6"
     }
   ]
 }
